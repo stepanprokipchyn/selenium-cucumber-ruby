@@ -24,7 +24,7 @@ Gem::Specification.new do |s|
 
   s.required_ruby_version = '>= 2.0.0'
   s.add_runtime_dependency 'cucumber', '>= 2.3.0'
-  s.add_runtime_dependency 'selenium-webdriver', '>= 3.0.0'
+  s.add_runtime_dependency 'selenium-webdriver', '3.0.0'
   s.add_runtime_dependency 'chunky_png', '>= 1.3.5'
   s.add_runtime_dependency 'appium_lib', '>= 8.0.2'
   s.add_runtime_dependency 'rspec', '>= 3.4.0'
